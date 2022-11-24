@@ -22,9 +22,9 @@ IN_BTTS = [
     [
         Button.url(
             "Repository",
-            url="https://github.com/Rzydx/Rzydx-Userbot",
+            url="https://github.com/muhammadhanif71/Itachi-Userbot",
         ),
-        Button.url("Channel", url="https://t.me/RzydxProject"),
+        Button.url("Channel", url="https://t.me/stufchannel"),
     ]
 ]
 
@@ -38,11 +38,11 @@ def in_pattern(**kwargs):
                 res = [
                     await event.builder.article(
                         title="Rzydx Userbot",
-                        url="https://t.me/RzydxSupport",
-                        description="(c) Rzydx Userbot",
+                        url="https://t.me/stufsupport",
+                        description="(c) Itachi Userbot",
                         text=MSG,
                         thumb=InputWebDocument(
-                            "https://telegra.ph/file/a43123fb4508e7eb69de6.jpg",
+                            "https://telegra.ph/file/7d3e2c6d397dfbd88cdb9.jpg.jpg",
                             0,
                             "image/jpeg",
                             [],
