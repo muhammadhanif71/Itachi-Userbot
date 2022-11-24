@@ -11,7 +11,7 @@ OWNER_ID = user.id
 
 
 MSG = f"""
-**Rzydx - UserBot**
+**Itachi - UserBot**
 ➖➖➖➖➖➖➖➖➖➖
 **Owner**: [{OWNER}](tg://user?id={OWNER_ID})
 **Assistant** : @{BOT_USERNAME}
