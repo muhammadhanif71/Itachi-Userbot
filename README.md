@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-   𝐑𝐙𝐘𝐃𝐗  -  𝐔𝐒𝐄𝐑𝐁𝐎𝐓
+   𝐔𝐒𝐄𝐑𝐁𝐎𝐓
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -11,7 +11,7 @@
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-purple?style=for-the-badge&logo=appveyor"/>
     </p>
 <p align="center">
-<img src="https://telegra.ph/file/a43123fb4508e7eb69de6.jpg">
+<img src="https://telegra.ph/file/7d3e2c6d397dfbd88cdb9.jpg">
 </p>
 <h2 align="center">
    ᴍᴇᴛᴏᴅᴇ ᴅᴇᴘʟᴏʏ
