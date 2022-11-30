@@ -46,12 +46,12 @@
 
 ### Tutorial Deploy di VPS
 
--  `git clone https://github.com/Rzydx/Rzydx-Userbot`
--  `cd Rzydx-Userbot`
+-  `git clone https://github.com/muhammadhanif71/Itachi-Userbot`
+-  `cd Itachi-Userbot`
 -  `pip3 install -r requirements.txt`
 -  `mv sample_config.env config.env`
 -  edit config.env Anda dan isi VARS menggunakan `nano config.env` `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori Rzydx-Userbot
--  Buka SCRREN di VPS Anda `screen -S Rzydx-Userbot`
+-  Buka SCRREN di VPS Anda `screen -S Itachi-Userbot`
 -  Kemudian gunakan perintah ini untuk menyebarkan Rzydx-Userbot `python3 -m userbot`
 
 </details>
@@ -61,7 +61,7 @@
 <br>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Rzydx/Rzydx-Userbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="215""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/muhammadhanif71/Itachi-Userbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="215""/</a>  
 <a href="https://telegram.dog/XTZ_HerokuBot?start=Unp5ZHgvUnp5ZHgtVXNlcmJvdCBSenlkeC1Vc2VyYm90"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="215""/</a>  </p>
 
 </details>
