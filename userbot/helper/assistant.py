@@ -37,12 +37,12 @@ def in_pattern(**kwargs):
             if event.sender_id not in OWNER_ID and SUDO_USERS():
                 res = [
                     await event.builder.article(
-                        title="Rzydx Userbot",
+                        title=Itachi Userbot",
                         url="https://t.me/stufsupport",
                         description="(c) Itachi Userbot",
                         text=MSG,
                         thumb=InputWebDocument(
-                            "https://telegra.ph/file/7d3e2c6d397dfbd88cdb9.jpg.jpg",
+                            "https://telegra.ph/file/6429eeb5f60c355728e72.jpg",
                             0,
                             "image/jpeg",
                             [],
